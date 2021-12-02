@@ -6,7 +6,7 @@ En este tercer ejemplo vamos a utilizar `Dockefile` para crear una imane persona
 
 ### Buildear Imagen
 ```sh
-docker build . -t CurosDocker:curso:docker-api01
+docker build . -t curso:docker-api01
 ```
 #### Resultado
 ```sh
